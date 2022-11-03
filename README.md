@@ -109,9 +109,3 @@
    <a href="https://github.com/xbaotg"><img alt="xbaotg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xbaotg&custom_title=xbaotg's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xbaotg&layout=compact&theme=algolia" alt="xbaotg" /></a> </p>

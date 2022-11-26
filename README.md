@@ -63,8 +63,6 @@
 
 <hr/>
   <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=xbaotg&theme=algolia" alt="xbaotg" />
-	<br/>
     	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="xbaotg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xbaotg&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	<br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xbaotg&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="xbaotg" height="192px"/>

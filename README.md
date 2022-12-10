@@ -3,15 +3,20 @@
 
 <br>
 
-<p align="center">
-	<a href="https://xbaotg.com"><img width="40px" height="40px" src="https://cdn.pixabay.com/photo/2020/09/17/22/52/website-5580513_960_720.png" alt="xbaotg.com"/></a>
-	<a href="mailto:tgbao2703@gmail.com"><img width="40px" height="40px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="Gmail"/>     </a>
-	<a href="https://github.com/xbaotg"><img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/xbaotg"><img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/640px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook"/></a>
-</p>
+<div id="badges" align="center">
+    <a href="https://www.facebook.com/xbaotg/">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-badge" />
+    </a>
+    <a href="https://xbaotg.com">
+        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="linkedin-badge" />
+    </a>
+    <a href="mailto:tgbao2703@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-badge" />
+    </a>
+</div>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=xbaotg&label=Profile%20views&color=0e75b6&style=plastic" alt="xbaotg" /> 
+	<img src="https://komarev.com/ghpvc/?username=xbaotg&label=Profile%20views&color=0e75b6&style=flat-square" alt="xbaotg" /> 
 </p>
 
 

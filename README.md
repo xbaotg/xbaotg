@@ -7,9 +7,11 @@
     <a href="https://www.facebook.com/xbaotg/">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-badge" />
     </a>
+    <!--
     <a href="https://xbaotg.com">
         <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="linkedin-badge" />
     </a>
+    -->
     <a href="mailto:tgbao2703@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-badge" />
     </a>

@@ -47,11 +47,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 -->
-
+<!--
 <hr/>
   <p align="center">
     	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="xbaotg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xbaotg&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	<br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xbaotg&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="xbaotg" height="192px"/>
   </p>
-
+-->
